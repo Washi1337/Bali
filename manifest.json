@@ -1,0 +1,1439 @@
+{
+  "homepages": [],
+  "source_base_path": "/github/workspace/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.BootstrapInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.BootstrapInfo.html",
+          "hash": "i1Sfrrq7ER6DJCK1e/qSrQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.BootstrapMethodsAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.BootstrapMethodsAttribute.html",
+          "hash": "c8HBqJiZeWste/e0wvjlDQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.Builders.CodeAttributeBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.Builders.CodeAttributeBuilder.html",
+          "hash": "ODovIBdaHG3vW/bXYwNUFw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.Builders.DefaultJvmAttributeBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.Builders.DefaultJvmAttributeBuilder.html",
+          "hash": "NZNPkLc3ki64Z7Kt4NvBqw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.Builders.IJvmAttributeBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.Builders.IJvmAttributeBuilder.html",
+          "hash": "uHaFLcLISo62PC5zsExfKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.Builders.IJvmAttributeDirector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.Builders.IJvmAttributeDirector.html",
+          "hash": "JH/d187PTLCdYpZZ2aXH0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.Builders.JvmAttributeBuilderBase-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.Builders.JvmAttributeBuilderBase-1.html",
+          "hash": "o2M4+mImYCez84aYJp3pfA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.Builders.JvmAttributeDirector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.Builders.JvmAttributeDirector.html",
+          "hash": "vXpevbcoNCSdFAJdEgzXJQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.Builders.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.Builders.html",
+          "hash": "0zhKaT0vXHdeB+Ng0c9X3g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.CodeAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.CodeAttribute.html",
+          "hash": "6pioVmaWlBshwL5WymJtig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.ConstantValueAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.ConstantValueAttribute.html",
+          "hash": "PuhEx52MBL6tpCU7MoyW7w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.DeprecatedAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.DeprecatedAttribute.html",
+          "hash": "n5fNh2Rsk5zM9ULue5WmOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.EnclosingMethodAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.EnclosingMethodAttribute.html",
+          "hash": "kTfTJHvxVfgpyuJnuXlPlg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.ExceptionsAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.ExceptionsAttribute.html",
+          "hash": "TYcZzj7erhVelJmy3o/ucw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.Factories.CodeAttributeFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.Factories.CodeAttributeFactory.html",
+          "hash": "G3XTxc8swyBMI3ktacW/Uw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.Factories.DefaultJvmAttributeFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.Factories.DefaultJvmAttributeFactory.html",
+          "hash": "MfMCH/E+4k4q0+2V85YPng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.Factories.IJvmAttributeFactoryFacade.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.Factories.IJvmAttributeFactoryFacade.html",
+          "hash": "FnywDs7+dVf6MTmXVVDL0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.Factories.JvmAttributeFactoryBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.Factories.JvmAttributeFactoryBase.html",
+          "hash": "O1PNmCWtXVRbbdRpwED8/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.Factories.JvmAttributeFactoryFacade.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.Factories.JvmAttributeFactoryFacade.html",
+          "hash": "CEzXn0kNRp2FPGEq4wcY1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.Factories.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.Factories.html",
+          "hash": "X08SjzexhWZBiQwBUrfLew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.InnerClassInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.InnerClassInfo.html",
+          "hash": "n+barVBoEtnjRBI+YNjBqg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.InnerClassesAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.InnerClassesAttribute.html",
+          "hash": "75nKn5rtmPVC+wHmF12Ujg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.JvmAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.JvmAttribute.html",
+          "hash": "3o+pDZI6PvxBubRIMf89NA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.LineNumberInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.LineNumberInfo.html",
+          "hash": "3dQXr2tLgS2VHEDmNtU5Sw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.LineNumberTableAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.LineNumberTableAttribute.html",
+          "hash": "xGvTsP8NkVEjHTzxdMN9Ig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.LocalVariableInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.LocalVariableInfo.html",
+          "hash": "UA8X3qGfcmjTKE0wIb1SQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.LocalVariableTableAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.LocalVariableTableAttribute.html",
+          "hash": "jsqjGQcDwHamwcx01yDgcw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.LocalVariableTypeInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.LocalVariableTypeInfo.html",
+          "hash": "f+5VcBtm/2pNEHFn4eoYlA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.LocalVariableTypeTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.LocalVariableTypeTable.html",
+          "hash": "fHkstWWSjHo704ZQnhmELA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.SignatureAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.SignatureAttribute.html",
+          "hash": "c1xyITDAkNGft5T+wMqx6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.SourceDebugExtensionAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.SourceDebugExtensionAttribute.html",
+          "hash": "Y/X/lTKAcVF3xhzrx7oQwA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.SourceFileAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.SourceFileAttribute.html",
+          "hash": "5EvH7d2XthX7Lk6/tM73mw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.SyntheticAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.SyntheticAttribute.html",
+          "hash": "sNHjgXTbhhsQ5biv2UISgg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Attributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Attributes.html",
+          "hash": "4fy0iIsXuptv/damvokFGQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.ClassAccessFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.ClassAccessFlags.html",
+          "hash": "ny7eF1pqi7yjAzIiJW2I2g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.ClassFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.ClassFile.html",
+          "hash": "SVm5a+i795LoP+uyQmYV8Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.ConstantPool.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.ConstantPool.html",
+          "hash": "vBPRSHEg5E4SCWIpGGwQeA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Constants.ClassConstant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Constants.ClassConstant.html",
+          "hash": "CBtKV+3LjwqU3yUOeGue5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Constants.Constant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Constants.Constant.html",
+          "hash": "XX9D7Dd8siNNLS17M0M/sA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Constants.ConstantBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Constants.ConstantBuilder.html",
+          "hash": "QuEJq3Hyp8QU8Og3Vo3UBA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Constants.ConstantFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Constants.ConstantFactory.html",
+          "hash": "ujbEiXV2V3dLrY0KerI8BQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Constants.ConstantKind.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Constants.ConstantKind.html",
+          "hash": "NtaLvOyXDMIc0BQFaEW93g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Constants.DoubleConstant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Constants.DoubleConstant.html",
+          "hash": "mCmqXAgIQWzuoJsM7kORng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Constants.FieldrefConstant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Constants.FieldrefConstant.html",
+          "hash": "ZiSbHU05NWPeq74NvQSGuw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Constants.FloatConstant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Constants.FloatConstant.html",
+          "hash": "Zwqm4cd198c69gMAKk/gbg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Constants.IntegerConstant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Constants.IntegerConstant.html",
+          "hash": "udH3h3xTm4FR1XzLNATOlQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Constants.InterfaceMethodrefConstant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Constants.InterfaceMethodrefConstant.html",
+          "hash": "NLCuqIdchIqvX2j0y5J1hw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Constants.InvokeDynamicConstant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Constants.InvokeDynamicConstant.html",
+          "hash": "0D0h/6Ruq6+BPPqxGtxURw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Constants.LongConstant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Constants.LongConstant.html",
+          "hash": "ZPSJRhKV5Lq2D/SLaAOdmA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Constants.MethodHandleConstant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Constants.MethodHandleConstant.html",
+          "hash": "RzLScLDQOtpcYmj7+J2Y5A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Constants.MethodTypeConstant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Constants.MethodTypeConstant.html",
+          "hash": "ps5OWVgTKcIIdBW2FSrIEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Constants.MethodrefConstant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Constants.MethodrefConstant.html",
+          "hash": "+v1Y60wG9JcjGjfmjh6E1A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Constants.NameAndTypeConstant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Constants.NameAndTypeConstant.html",
+          "hash": "/xRfzu15GKkgd2zviwGpsA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Constants.StringConstant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Constants.StringConstant.html",
+          "hash": "9PJxuhptRvbGywpchl2q/A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Constants.Utf8Constant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Constants.Utf8Constant.html",
+          "hash": "iofmpoVdzfsLzssn2ybdTg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Constants.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Constants.html",
+          "hash": "7zxu7usi53Aj2milwC/Y6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Descriptors.DescriptorLexer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Descriptors.DescriptorLexer.html",
+          "hash": "PHZ7gM7y9PxhlmmAGugihw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Descriptors.DescriptorParserException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Descriptors.DescriptorParserException.html",
+          "hash": "ZD4iVonT5ovAnFSDPR632w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Descriptors.DescriptorToken.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Descriptors.DescriptorToken.html",
+          "hash": "gO+k7HLvBfAQq0pBJr/L/A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Descriptors.DescriptorTokenKind.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Descriptors.DescriptorTokenKind.html",
+          "hash": "j7ABeqEMqNGviHV0SAcZjA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Descriptors.DescriptorTokenStream.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Descriptors.DescriptorTokenStream.html",
+          "hash": "BNgl7qIg9c6h879+pC6vlw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Descriptors.FieldDescriptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Descriptors.FieldDescriptor.html",
+          "hash": "9ZSD++re16fGU6OK3KRjCQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Descriptors.FieldDescriptorParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Descriptors.FieldDescriptorParser.html",
+          "hash": "koQ7xi8uCl2bMntJsr2o3Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Descriptors.MethodDescriptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Descriptors.MethodDescriptor.html",
+          "hash": "Vk1mB8mgIcZej3JL6D7/tQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Descriptors.MethodDescriptorParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Descriptors.MethodDescriptorParser.html",
+          "hash": "VnFfmk4jg20YLtcFMlEtGA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Descriptors.NonPrimitiveFieldDescriptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Descriptors.NonPrimitiveFieldDescriptor.html",
+          "hash": "EAGvsWICrV4f5AYcQRvViw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Descriptors.PrimitiveFieldDescriptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Descriptors.PrimitiveFieldDescriptor.html",
+          "hash": "cjNrU1JEyZ33wERs8nBsOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Descriptors.PrimitiveKind.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Descriptors.PrimitiveKind.html",
+          "hash": "bHYfsuk7TCAselfoJyrJ1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Descriptors.PrimitiveKindExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Descriptors.PrimitiveKindExtensions.html",
+          "hash": "wUEeQ3IxE8AHZkOVngAVfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Descriptors.TextSpan.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Descriptors.TextSpan.html",
+          "hash": "P+FtZNfRcn0aV7YuP87QXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Descriptors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Descriptors.html",
+          "hash": "Jl4dLt0zI1z+WUj1ksd1Jg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Emit.AssemblyException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Emit.AssemblyException.html",
+          "hash": "aPExlYtw1pfjoYphqtNWdw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Emit.DisassemblyException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Emit.DisassemblyException.html",
+          "hash": "A4kHP6DZ87zQOnQ6n61+WA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Emit.IJvmBytecodeAssembler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Emit.IJvmBytecodeAssembler.html",
+          "hash": "vXtsZ+TzrnRIcwTVNYNiPQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Emit.IJvmBytecodeDisassembler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Emit.IJvmBytecodeDisassembler.html",
+          "hash": "Fpk+2qWevsq9OmfPbC3tpQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Emit.JvmBytecodeAssembler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Emit.JvmBytecodeAssembler.html",
+          "hash": "Uygk+YNFOtHJ7Cn5afxaCQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Emit.JvmBytecodeDisassembler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Emit.JvmBytecodeDisassembler.html",
+          "hash": "RXSaQW0hnlKhDZp2iJo7Mw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Emit.JvmCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Emit.JvmCode.html",
+          "hash": "qrBxU8aToZGBkqh4m9ACeQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Emit.JvmExceptionHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Emit.JvmExceptionHandler.html",
+          "hash": "SKlh5AVONKv0/Zkupfj+Aw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Emit.JvmFlowControl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Emit.JvmFlowControl.html",
+          "hash": "6dpDYAzIS01+h6izeiIGew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Emit.JvmInstruction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Emit.JvmInstruction.html",
+          "hash": "/6hrS0JBlHtLRqounAd5ig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Emit.JvmOpCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Emit.JvmOpCode.html",
+          "hash": "dpj8fcbdCCeo8Ry8U9Wd1A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Emit.JvmOpCodes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Emit.JvmOpCodes.html",
+          "hash": "I/Ove98uQU895IskF6kIxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Emit.JvmOperandType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Emit.JvmOperandType.html",
+          "hash": "TkYaFouFxbJ17q92TVcA6g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Emit.JvmPrimitiveArrayType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Emit.JvmPrimitiveArrayType.html",
+          "hash": "DXgq61RaYEMASDHEJue5OQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Emit.JvmStackBehavior.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Emit.JvmStackBehavior.html",
+          "hash": "6iwZ4YQZewRenpeTf7znbA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Emit.Operands.IndexJumpTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Emit.Operands.IndexJumpTable.html",
+          "hash": "E7voCIZw8uLwrFRgMC7T4Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Emit.Operands.KeyJumpTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Emit.Operands.KeyJumpTable.html",
+          "hash": "ygavzJ6mZOYsCU1YeSeZDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Emit.Operands.LocalIndexWithSignedByte.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Emit.Operands.LocalIndexWithSignedByte.html",
+          "hash": "zItmv1r1NhbJujPaqOBouw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Emit.Operands.WideConstantPoolIndexWithArrayDimensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Emit.Operands.WideConstantPoolIndexWithArrayDimensions.html",
+          "hash": "2pInIjG6uX2cRtviEsAMhw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Emit.Operands.WideConstantPoolIndexWithTwoBytes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Emit.Operands.WideConstantPoolIndexWithTwoBytes.html",
+          "hash": "mrGhzvbA9cS9aVVC4jl4ng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Emit.Operands.WideLocalIndexWithSignedShort.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Emit.Operands.WideLocalIndexWithSignedShort.html",
+          "hash": "nDz0dhEIClL52SjE3YffVA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Emit.Operands.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Emit.Operands.html",
+          "hash": "wR+1edmB1vAxBsF5xb+SRw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.Emit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.Emit.html",
+          "hash": "FCXxMPA7u5tPB0npTl3OhQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.FieldAccessFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.FieldAccessFlags.html",
+          "hash": "xwq+MbcMKrtVhOGIHW7EzA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.IO.ClassFileBody.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.IO.ClassFileBody.html",
+          "hash": "yKFlYby1MW3YdHB4o11Cxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.IO.ClassFileBodyReader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.IO.ClassFileBodyReader.html",
+          "hash": "NQ6Uj5dWh3qQOWojvFgttg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.IO.ClassFileHeader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.IO.ClassFileHeader.html",
+          "hash": "zn8Y36QGPKspP/+jlIyMpw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.IO.ClassFileHeaderReader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.IO.ClassFileHeaderReader.html",
+          "hash": "Is8+/BiwLq8CyXja+HC9yQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.IO.ConstantPoolReader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.IO.ConstantPoolReader.html",
+          "hash": "9vjkUETwdC5+wkKP0yCtbA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.IO.ConstantPoolWriter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.IO.ConstantPoolWriter.html",
+          "hash": "Sv/fnmi59BISrohn9foeKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.IO.InvalidMagicException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.IO.InvalidMagicException.html",
+          "hash": "iPKSvpbff3eiPqWjcn6SuA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.IO.JavaUtf8.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.IO.JavaUtf8.html",
+          "hash": "BO1YhOItQZbT272uitVvcw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.IO.MetadataBody.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.IO.MetadataBody.html",
+          "hash": "eOAldFszQg6IRyudhwfZ8g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.IO.MetadataBodyReader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.IO.MetadataBodyReader.html",
+          "hash": "SMGXtzKqnnC8ZEUX35A45g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.IO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.IO.html",
+          "hash": "kj4wmWyc5R6rb9wy27EQAg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.JvmFieldInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.JvmFieldInfo.html",
+          "hash": "rQ0cjb4CR3uuwe5vJ3doOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.JvmMethodInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.JvmMethodInfo.html",
+          "hash": "N/hi0pILc5CyjV9m5JFDYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.MethodAccessFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.MethodAccessFlags.html",
+          "hash": "uyA6tLmBWHJ3GQf4Ruvgaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.MethodReferenceKind.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.MethodReferenceKind.html",
+          "hash": "PF+MYm7tQoCV9GmnHuv7Jw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bali.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bali.html",
+          "hash": "g/JbAuiEw40Y7KQGaDmtbQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "8ybIu8XpagKTX+7KaxThQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "BInxnGpqhjVE2eala323SA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "jsd/wIV87ji4XComrcs1ew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "EIhwD2+o19OxxQFCB6JJTg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 111,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
